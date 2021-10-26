@@ -40,7 +40,7 @@ header h1 {
 .navigation a {
   float: right;
   margin-top: 90px;
-  padding: 14px 16px;
+  padding: 10px 10px;
   text-decoration: none;
   font-size: 20px;
   color: white;
@@ -48,11 +48,6 @@ header h1 {
 }
 
 .navigation a:hover {
-  background-color: white;
-  color: black;
-}
-
-navigation a.active {
   background-color: white;
   color: black;
 }
